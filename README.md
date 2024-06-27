@@ -11,8 +11,8 @@
 
 A little about me:
 
-- 🇨🇦  Agra, **UP, INDIA**.
-- 🔭  I’m currently working with **Azure**, **AWS** and **Kubernetes**.
+-  🇨🇦  Indore, **MP, INDIA**.
+- 🔭  I’m currently working with **Azure**.
 - 🌱  I’m currently learning everything related to **DevOps** and **automation**.
 - 📚  Self-taught
 
