@@ -12,7 +12,7 @@
 A little about me:
 
 -  🇨🇦  Indore, **MP, INDIA**.
-- 🔭  I’m currently working with **Azure**.
+- 🔭  I’m currently working with **Azure** and **Web Devlopment**.
 - 🌱  I’m currently learning everything related to **DevOps** and **automation** and as well as **frontend**.
 
 - 📚  Self-taught
