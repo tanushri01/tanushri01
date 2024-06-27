@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 <!--
-**vivekofibm/vivekofibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tanushri Mujwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 A little about me:
