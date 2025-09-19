@@ -11,9 +11,11 @@
 
 A little about me:
 
--  🇨🇦  Indore, **MP, INDIA**.
-- 🔭  I’m currently working with **AWS** and **on premises**.
-- 🌱  I’m currently learning everything related to **DevOps** and **automation**.
+- 📍 Based in **Noida, UP, INDIA**  
+- 🔧 Currently working with **AWS** ☁️ and **on-premises infrastructure** 🖥️  
+- 🌱 Always learning **DevOps**, **automation**, and cloud-native technologies  
+- 📚 **Self-taught** and passionate about building scalable systems  
+- 💡 Interested in **CI/CD**, **infrastructure as code**, and **cloud architecture**  
 
 - 📚  Self-taught
 
